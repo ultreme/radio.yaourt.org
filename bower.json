@@ -1,0 +1,19 @@
+{
+  "name": "radio.yaourt.org",
+  "homepage": "https://github.com/ultreme/radio.yaourt.org",
+  "authors": [
+    "Manfred Touron <m@42.am>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
